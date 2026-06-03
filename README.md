@@ -1,11 +1,14 @@
 # Trabajo Practico Final - Testeo y Prueba de Software
----
 ## Sistema de turnos - Salita Odontologica
----
+
 **Institución:** Universidad de Belgrano
+
 **Materia:** Testeo y Prueba de Software
+
 **Alumno:** Sergio Jesus Apollonio
+
 **Año:** 2025
+
 ---
 1. [Objetivo del Software](#1-objetivo-del-software)
 2. [Requerimientos Funcionales](#2-requerimientos-funcionales)
